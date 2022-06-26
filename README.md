@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Satish Birhade <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you. </h1>
 
 <h3 align="center"><b>Welcome to my</b> <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile</h3>
-<h3 align="center">I'm A passionate developer from India</h3>
+<h3 align="center">I'm A passionate developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" /></h3>
 
   - I have pursued Post Graduation in Computer Science from <a href="http://www.kthmcollege.ac.in/">@KTHM College, Nashik </a>
   - 🔭 I’m currently working as a  **Junior Developer**.
