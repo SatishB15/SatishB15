@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
-<h3>Things I code with</h3>
+<h3>Skills and Expeprties I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
