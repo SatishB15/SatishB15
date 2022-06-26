@@ -43,3 +43,6 @@
 <h3>GitHub Statistics</h3>
 <img align="center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=SatishB15&show_icons=true&theme=tokyonight"/>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SatishB15&theme=react-dark" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
