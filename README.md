@@ -2,13 +2,14 @@
 
 <h3 align="center"><b>Welcome to my</b> <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile</h3>
 <h3 align="center">I'm A passionate developer from India</h3>
-  - I have pursued Post Graduation in Computer Science from <a href="http://www.kthmcollege.ac.in/">@KTHM College, Nashik  </a>
+<p>
+ - I have pursued Post Graduation in Computer Science from <a href="http://www.kthmcollege.ac.in/">@KTHM College, Nashik  </a>
   - 🔭 I’m currently working as a  **Junior Developer**
   - :neutral_face: I have a **lovely** relationship with **Programming**
   - 🌱 I’m currently Working with tech **Angular, NodeJs, Expressjs, MongoDB**
   - 🤔 I’m looking for help with Interview Preparation and Data Structures and Algorithms 😭
   - 💬 Ask me about anything, I am happy to help
-
+</p>
 <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 <h3>Skills and Expeprties I code with</h3>
 <p>
