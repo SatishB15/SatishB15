@@ -10,8 +10,6 @@
   - 🤔 I’m looking for help with Interview Preparation and Data Structures and Algorithms 😭.
   - I ** 💕 ** to help people's to solve their problems and challenging doubts.
   - 💬 Ask me about anything, I am happy to help....!
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 <h3>Skills and Expeprties I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
