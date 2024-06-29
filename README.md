@@ -4,7 +4,7 @@
 <h3 align="center">I'm A passionate developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" /></h3>
 
   - I have pursued Post Graduation in Computer Science from <a href="http://www.kthmcollege.ac.in/">@KTHM College, Nashik </a>
-  - 🔭 I’m currently working as a  **Junior Developer**.
+  - 🔭 I’m currently working as a  **Senior Developer**.
   - :neutral_face: I have a **lovely** relationship with **Programming**.
   - 🌱 I’m currently Working with tech **Angular, NodeJs, Expressjs, MongoDB**.
   - 🤔 I’m looking for help with Interview Preparation and Data Structures and Algorithms 😭.
