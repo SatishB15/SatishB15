@@ -6,7 +6,7 @@
   - I have pursued Post Graduation in Computer Science from <a href="http://www.kthmcollege.ac.in/">@KTHM College, Nashik </a>
   - 🔭 I’m currently working as a  **Senior Developer**.
   - :neutral_face: I have a **lovely** relationship with **Programming**.
-  - 🌱 I’m currently Working with tech **Angular, NodeJs, Expressjs, MongoDB**.
+  - 🌱 I’m currently Working with tech **Angular, NodeJs, Expressjs, PostgreSQL**.
   - 🤔 I’m looking for help with Interview Preparation and Data Structures and Algorithms 😭.
   - I ** 💕 ** to help people's to solve their problems and challenging doubts.
   - 💬 Ask me about anything, I am happy to help....!
