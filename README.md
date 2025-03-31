@@ -7,7 +7,6 @@
   - 🔭 I’m currently working as a  **Senior Developer**.
   - :neutral_face: I have a **lovely** relationship with **Programming**.
   - 🌱 I’m currently Working with tech **Angular, NodeJs, Expressjs, PostgreSQL**.
-  - 🤔 I’m looking for help with Interview Preparation and Data Structures and Algorithms 😭.
   - I ** 💕 ** to help people's to solve their problems and challenging doubts.
   - 💬 Ask me about anything, I am happy to help....!
 <h3>Skills and Expeprties I code with</h3>
